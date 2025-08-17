@@ -114,6 +114,6 @@ hr{
 }
 .tag.active{
     background-color: rgb(53, 50, 50);
-    transform: scale(1.15);
+    transform: scale(1.16);
     font-weight: 500;
 }
