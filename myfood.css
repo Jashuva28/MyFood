@@ -102,7 +102,7 @@ hr{
 .tags{
     display: flex;
     flex-wrap: wrap;
-    gap: 6px;
+    gap: 15px 6px ;
 }
 .tag{
     cursor: pointer;
@@ -117,3 +117,4 @@ hr{
     transform: scale(1.16);
     font-weight: 500;
 }
+
